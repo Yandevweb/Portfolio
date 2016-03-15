@@ -1,0 +1,60 @@
+
+	.margTop-2{
+		margin-top: 2%;
+	}
+	.margTop-3{
+		margin-top: 3%;
+	}
+	.margTop-5{
+		margin-top: 5%;
+	}
+	.margTop-10{
+		margin-top: 10%;
+	}
+	.margTop-15{
+		margin-top: 15%;
+	}
+	.margTop-20{
+		margin-top: 20%;
+	}
+
+	.centre {
+		text-align: center;
+	}
+
+	.right {
+		text-align: right;
+	}
+
+	.btn-menu {
+		width: 150px;
+	}
+
+	#menu {
+		border: none;
+		background: none;
+	}
+
+	.imgProjet {
+		width: 100%;
+	}
+	
+	@media (max-width: 767px) {
+
+	#menu {
+		border-right: 2px solid black;
+	}
+
+	.btn-menu {
+		width: 100%;
+		margin-top: 0px;
+		text-align: right;
+		border: none;
+		border-bottom: 1px solid black;
+		border-radius: 0%;
+	}
+
+	#btn-envoyer{
+		width: 100%;
+	}
+}

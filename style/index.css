@@ -1,0 +1,61 @@
+
+	.centre {
+		text-align: center;
+	}
+
+	.right {
+		text-align: right;
+	}
+
+	.margTop-2 {
+		margin-top: 2%;
+	}
+
+
+	.margTop-3 {
+		margin-top: 3%;
+	}
+
+
+	.margTop-5 {
+		margin-top: 5%;
+	}
+
+	.margTop-10 {
+		margin-top: 10%;
+	}
+
+	.margTop-15 {
+		margin-top: 15%;
+	}
+
+	.margTop-20 {
+		margin-top: 20%;
+	}
+
+	.margTop-50 {
+		margin-top: 50%;
+	}
+
+	.margTop-5000px {
+		margin-top: 5000px;
+	}
+
+    #presentation {
+    	border-radius: 5%;
+    	border: 2px solid black;
+    }
+
+    #btnMenu {
+    	font-size: 1.5em;
+    }
+
+	#btnContact {
+		position: absolute;
+		right: 2%;
+	}
+
+	#btnTop {
+		position: absolute;
+		right: 2%;
+	}
