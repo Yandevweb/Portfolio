@@ -1,0 +1,3 @@
+www.crazyws.fr/tutos/deplacer-le-repertoire-utilisateur-sur-windows-7
+
+modifier le PATH pour que php et vagrant soient reconnue dans la ligne de commande (dans système => propriétés système => variables d'environement => /!\ modifier la variable utilisateur PATH C:/php/php ou C:/HashiCorp/Vagrant/bin)
